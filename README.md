@@ -5,20 +5,22 @@ This project endeavors to address the crucial task of multilabel emotion classif
 
 By pursuing this investigation, the project aims to contribute significantly to the development of culturally relevant and linguistically aware NLP applications, thereby bridging a critical gap in African language technology.
 
-Languages Used: isiZulu, isiXhosa, Kiswahili
+**Languages Used:** isiZulu, isiXhosa, Kiswahili
 
-Models Used: AfriBERTa, XLM-R
+**Models Used:** AfriBERTa, XLM-R
 
-Datasets: BRIGHTER, EthioEmo
+**Datasets:** BRIGHTER, EthioEmo
 
-Key Goals: Evaluate transfer learning + multilabel classification
+**Key Goals:** Evaluate transfer learning + multilabel classification
 
+### How to Run 
+(brief setup + command)
 
+### Results Summary (short section or link to full report)
 
-How to Run (brief setup + command)
-
-Results Summary (short section or link to full report)
-
-Team Members: Names and student numbers
+**Team Members:**
+Charlize Hanekom
+Jayson du Toit
+Nonkululeko Ntshele
 
 License (MIT, Apache 2.0, or similar)
