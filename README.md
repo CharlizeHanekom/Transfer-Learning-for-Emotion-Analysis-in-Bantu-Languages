@@ -18,7 +18,7 @@ This Jupyter notebook trains and evaluates emotion classification models for thr
 ### 1. Environment Setup
    - Installs required packages
    - Configures GPU monitoring
-   - Initializes efficiency metrics tracking
+   - Initialises efficiency metrics tracking
 
 ### 2. Data Loading & Preprocessing
    - Loads parquet datasets from Google Drive
@@ -75,11 +75,11 @@ This Jupyter notebook trains and evaluates emotion classification models for thr
 | XLM-R       | Swahili   | 0.187    | 0.56    | 0.74         |
 
 ## Files Included
-├── 760_BaseModels.ipynb # Baseline model training (no advanced tuning)
-├── 760_Final.ipynb # Full fine-tuning pipeline (layer freezing, metrics)
-├── 760_Group_13_Report.pdf # Final research report
-├── README.md # Project documentation (this file)
-├── evaluation_results.csv
-├── base_models_evaluation_results.csv
+├── 760_BaseModels.ipynb - Baseline model training (no advanced tuning)  
+├── 760_Final.ipynb - Full fine-tuning pipeline (layer freezing, metrics)  
+├── 760_Group_13_Report.pdf - Final research report  
+├── README.md - Project documentation (this file)  
+├── evaluation_results.csv  
+├── base_models_evaluation_results.csv  
 
 The notebook provides a comprehensive pipeline for training and evaluating emotion classification models on low-resource African languages using state-of-the-art techniques.
